@@ -3,7 +3,7 @@
 > *"The Digital Wild West doesn't need more sheriffs. It needs a constitution."*
 
 **Published by MSD Michael A. Kane II | OAS Analytical Sanctum**  
-📍 Phoenix, AZ | 📧 oxygenatedprogress@gmail.com | ⚡ Wartime Status: **ACTIVE**
+📍 Phoenix, AZ | 📧legitimateacf@gmail.com | ⚡ Wartime Status: **ACTIVE**
 
 ---
 
