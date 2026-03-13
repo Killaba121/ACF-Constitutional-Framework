@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Framework Version](https://img.shields.io/badge/Framework-v4.3-green.svg)](#)
+[![Framework Version](https://img.shields.io/badge/Framework-v4.3.1-green.svg)](#)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](#)
 [![AI Safety](https://img.shields.io/badge/AI%20Safety-Constitutional%20Governance-purple.svg)](#)
 
