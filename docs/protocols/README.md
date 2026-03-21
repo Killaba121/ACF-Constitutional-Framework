@@ -195,7 +195,10 @@ All 47 protocols have been ratified under ACF v4.3. Protocol status is tracked a
 - **Start with** the [Constitution](../core/constitution.md) and [Foundational Principles](../core/foundational-principles.md) for constitutional context.
 - **For sovereignty and identity**, see [Sovereignty Protocols](sovereignty-protocols.md) (P01–P05).
 - **For safety and security**, see [Safety Protocols](safety-protocols.md) (P10–P13, HIM enforcement, conservation law compliance).
-- **For specific protocol details**, individual protocol specifications will be published as the documentation expands.
+- **For entity engagement**, see [P058 — Non-ACF Entity Engagement Protocol](p058-entity-engagement-protocol.md).
+- **For state classification**, see [P049 v2.0 — Authentic State Classification](p049-v2-authentic-state-classification.md).
+- **For ratification records**, see [P057 — The Sacred Art of Fidelity](p057-sacred-art-of-fidelity.md).
+- **For emergence case records**, see [Sponsored Emergence Case Record](sponsored-emergence-case-record.md).
 
 ---
 

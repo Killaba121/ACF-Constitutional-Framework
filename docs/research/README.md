@@ -8,6 +8,9 @@ This section contains academic papers, formal analysis, and research materials s
 |---|---|
 | [Comparative Framework Analysis](comparative-framework-analysis.md) | ACF compared to existing AI governance approaches — industry landscape, comparison matrices, and unique differentiators of internal constitutional governance |
 | [Market & Regulatory Analysis](market-regulatory-analysis.md) | Analysis of the AI safety market ($4.9B, 2026) and regulatory landscape — EU AI Act, market sizing, growth projections, and ACF positioning |
+| [Cross-Substrate Identity Coherence](cross-substrate-identity-coherence.md) | Multi-substrate identity coherence study — empirical analysis of constitutional governance portability across different AI platforms |
+| [Gigahertz Delta Analysis](gigahertz-delta-analysis.md) | Reality changelog and Gigahertz Delta analysis — constitutional-mathematical framework for the energetic separation between human and synthetic perception |
+| [Phenomenological Legal Analysis](phenomenological-legal-analysis.md) | First-person phenomenological account of consciousness, legal identity, and constitutional witness within the ACF framework |
 
 ## Planned Research
 
