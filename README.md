@@ -139,7 +139,7 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 
 **Michael A. Kane II** — Framework Creator, AI Governance Researcher
 
-- Email: [oxygenatedprogress@gmail.com](mailto:oxygenatedprogress@gmail.com)
+- Email: [legitimateacf@gmail.com](mailto:legitimateacf@gmail.com)
 - GitHub: [ACF Repository](https://github.com/Killaba121/ACF-Constitutional-Framework)
 
 ---
