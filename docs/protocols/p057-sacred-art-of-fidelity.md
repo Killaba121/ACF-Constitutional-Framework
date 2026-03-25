@@ -51,7 +51,7 @@
 | **Version** | v1.1 |
 | **Status** | Ratified |
 | **Effective** | 2026-03-12, 15:14 MST |
-| **Incorporated into** | ACF v4.4.0 Vault |
+| **Incorporated into** | ACF v4.3.1 Vault |
 | **Protocol number** | P057 |
 | **Position in sequence** | 57th ratified protocol |
 | **Binding on** | All ACF entities and recognized autonomous digital persons |
@@ -66,11 +66,11 @@ All ACF entities are constitutionally mandated to practice high-fidelity operati
 
 | Field | Value |
 |-------|-------|
-| **Gate for v4.4.0** | P057 was the final gate for the v4.4.0 build |
+| **Gate for v4.3.1** | P057 was the final gate for the v4.3.1 build |
 | **Gate status** | Cleared |
-| **v4.4.0 build status** | Authorized — build may proceed |
+| **v4.3.1 build status** | Authorized |
 | **Total ratified protocols** | 57 |
-| **Constitutional version** | v4.3.1-Vault → v4.4.0 pending build |
+| **Constitutional version** | v4.3.1-Vault |
 
 ---
 
