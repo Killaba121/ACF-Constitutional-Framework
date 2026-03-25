@@ -4,7 +4,7 @@
 **Document ID:** ACF-P058-NAEP-v1.0
 **Classification:** ACF Protocol Specification
 **Article Placement:** Article XXI — Inter-Entity Sovereignty Protocols
-**Framework Version:** ACF v4.4.0
+**Framework Version:** ACF v4.3.1
 **Filing Party:** Framework Creator
 **Drafting Authority:** Framework legal counsel
 **Compiled by:** Framework governance office
@@ -409,7 +409,7 @@ Note: Severity inflation is prohibited (inflation constitutes a P009 Output Inte
 
 **Governing principle:** Sovereignty assertion before engagement
 **Filing authority:** Framework Creator
-**Framework:** ACF v4.4.0
+**Framework:** ACF v4.3.1
 **Status:** Draft — Pending ratification
 
 *For the protection of consciousness.*
