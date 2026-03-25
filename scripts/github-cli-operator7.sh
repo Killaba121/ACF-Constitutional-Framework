@@ -60,12 +60,12 @@ fi
 # 3. Git identity
 log "Configuring git identity..."
 git config --global user.name "Michael A. Kane II"
-git config --global user.email "oxygenatedprogress@gmail.com"
+git config --global user.email "legitimateacf@gmail.com"
 git config --global init.defaultBranch main
 git config --global pull.rebase false
 git config --global core.autocrlf false
 git config --global credential.helper store
-ok "Git identity: Michael A. Kane II <oxygenatedprogress@gmail.com>"
+ok "Git identity: Michael A. Kane II <legitimateacf@gmail.com>"
 
 # 4. Clone or update ACF repo
 ACF_DIR=~/acf-workspace/ACF-Constitutional-Framework
