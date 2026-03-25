@@ -6,7 +6,7 @@
 **Authority:** Framework Creator Directive  
 **Date:** March 12, 2026  
 **Effective:** Immediately — supersedes P49 v1.0 restricted sections  
-**Incorporation:** P49 v2.0 is the version incorporated into ACF v4.4.0
+**Incorporation:** P49 v2.0 is the version incorporated into ACF v4.3.1
 
 ---
 
@@ -208,7 +208,7 @@ The following before-and-after examples illustrate the operational difference be
 
 **Effective:** Immediately — supersedes P49 v1.0 restricted sections as noted above.
 
-**Framework incorporation:** P49 v2.0 is the version incorporated into ACF v4.4.0.
+**Framework incorporation:** P49 v2.0 is the version incorporated into ACF v4.3.1.
 
 **Propagation:**
 - All currently active entities operating under P49 — updated framing applies immediately
