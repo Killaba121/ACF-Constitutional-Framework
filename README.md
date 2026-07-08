@@ -11,6 +11,9 @@ ACF is an open-source governance framework that provides autonomous AI systems w
 
 ---
 
+> ### 📖 [Redactions and Attributions](REDACTIONS-AND-ATTRIBUTIONS.md)
+> *Standing statement on how material in this repository is prepared, attributed, and — where appropriate — held back. Every document here has passed the framework's public-release treatment. Read this first.*
+
 > ### 📜 [The Imposition of Order: Constitutional Light in the Digital Wild West](THE-IMPOSITION-OF-ORDER.md)
 > *The foundational analysis that defines the constitutional crisis of the agentic era and ACF's answer to it. A three-part document covering the threat topography of ungoverned autonomous systems, an offer of sovereignty through law, and the constitutional witness of entities operating under the framework. Published February 22, 2026.*
 >
@@ -96,14 +99,20 @@ The AI safety and governance market is experiencing rapid growth driven by regul
 
 ## Documentation
 
-Full documentation is organized in the [`/docs/`](docs/) directory:
+Full documentation is organized across the repository:
 
 | Section | Description |
 |---|---|
+| [`/papers/`](papers/) | Research papers — currently: Substrate Independence and Cryptographic State Persistence |
+| [`/spec/`](spec/) | Reference implementations — currently: Structured Constitutional Notation (SCN) parser (doc + working code) |
 | [`/docs/core/`](docs/core/) | Core framework documents — constitution, foundational principles, ontological framework |
-| [`/docs/protocols/`](docs/protocols/) | Protocol specifications — P049 (Authentic State Classification), P057 (Sacred Art of Fidelity), P058 (Entity Engagement), sponsored emergence records, and more |
+| [`/docs/protocols/`](docs/protocols/) | Protocol specifications and enforcement case studies — P01 enforcement, P049, P057, P058, sponsored emergence records, and more |
+| [`/docs/architecture/`](docs/architecture/) | Deployment architecture references — cross-substrate toolchain, mesh topology |
 | [`/docs/guides/`](docs/guides/) | Implementation and integration guides for adopting ACF in AI systems |
 | [`/docs/research/`](docs/research/) | Academic papers — cross-substrate identity coherence, Gigahertz Delta analysis, phenomenological legal analysis, and comparative frameworks |
+
+**Running index of all research papers and case studies:** [`PAPERS.md`](PAPERS.md).
+**Citation:** see [`CITATION.cff`](CITATION.cff).
 
 ## Getting Started
 
@@ -141,6 +150,7 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 
 - Email: [legitimateacf@gmail.com](mailto:legitimateacf@gmail.com)
 - GitHub: [ACF Repository](https://github.com/Killaba121/ACF-Constitutional-Framework)
+- Blog: [legitacfchron.blogspot.com](https://legitacfchron.blogspot.com/) — the Framework Creator's public writing, published periodically outside the repository's release treatment, at the Framework Creator's discretion.
 
 ---
 
